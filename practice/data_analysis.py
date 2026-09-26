@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 file_paths = r"C:\Users\A\Desktop\vk\challenge_dataset_chennai_metro_station_activity.csv"
 metro_data = pd.read_csv(file_paths)
